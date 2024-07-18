@@ -14,4 +14,4 @@
 <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   
 </div>
-Tenho 25 anos sou um recém formado do curso de Análise e Desenvolvimento de Sistemas pela Faculdade do Maranhão, possuo boas praticas em Java, Sql, e Git e estou em busca de uma mudança de carreira.🤙🏽😎
+Tenho 25 anos sou um recém formado do curso de Análise e Desenvolvimento de Sistemas pela Faculdade do Maranhão.
